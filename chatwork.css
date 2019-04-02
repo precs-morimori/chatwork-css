@@ -1,0 +1,32 @@
+/*グループアイコン*/
+.bhwuPE {
+    height: 16px;
+    width: 16px;
+}
+
+/*グループアイコンの枠*/
+.kXUjmf {
+    height: 16px;
+    width: 16px;
+}
+
+/*グループとグループの幅*/
+.byNCIa {
+    padding: 0 10px 0 5px;
+}
+
+/*未読グループの文字色*/
+.inuYI {
+    color: red;
+}
+
+/*選択中のグループ*/
+.fhsKMz {
+    /*background: lightyellow;*/
+    padding: 0 10px 0 5px;
+}
+
+/*ピン留めの位置*/
+.roomListItem__pinContainer {
+    top: 0;
+}
