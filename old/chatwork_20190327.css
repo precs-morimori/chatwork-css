@@ -1,0 +1,29 @@
+/* グループの間隔を狭く */
+.roomListItem {
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+/* 以下は任意 */
+/* 未読を赤文字に */
+.roomListItem__roomName--unread {
+    color: red;
+}
+
+.avatarMedium {
+    width: 16px;
+    height: 16px;
+}
+
+.roomListItem__iconContainer {
+    width: 12px;
+    height: 20px;
+}
+
+.roomListItem__roomInfo {
+    width: calc(100% - 12px - 8px);
+}
+
+.roomListItem__pinContainer {
+    top: 0px;
+}
