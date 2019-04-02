@@ -1,7 +1,8 @@
 # ChatWorkのcssを修正
 
-ChatWorkの画面を見やすくする設定。  
-画面左部のグループの間隔が狭くなり、未読を赤文字となる。
+ChatWorkの画面を見やすくする設定。
+- 画面左部のグループの間隔が狭くなる
+- 未読メッセージのあるグループを赤文字で表示する
 
 ## Google Chrome拡張機能 `Stylebot`をインストール
 [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
