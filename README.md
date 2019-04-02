@@ -8,7 +8,8 @@ ChatWorkの画面を見やすくする設定。
 
 ## Stylebotアドオン設定
 `Options... > Styles > Add a new style...`  
+
+### 設定値
 URL: `www.chatwork.com`  
 CSS: [chatwork.css](chatwork.css)  
-※ `raw` をクリックし、コピペ
-
+※ `Raw` をクリックし、コピペ
