@@ -12,5 +12,6 @@ ChatWorkの画面を見やすくする設定。
 
 ### 設定値
 URL: `www.chatwork.com`  
-CSS: [chatwork.css](chatwork.css)  
-※ `Raw` をクリックし、コピペ
+CSS: chatwork.css ([Raw](https://raw.githubusercontent.com/precs-morimori/chatwork-css/master/chatwork.css) | [View](chatwork.css))
+
+
