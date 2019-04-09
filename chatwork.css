@@ -1,34 +1,35 @@
-/* update_date: 2019/04/05 11:03 */
+/* update_date: 2019/04/09 19:20 */
 
-/*グループアイコン*/
+/* グループアイコン */
 roomlist > ul > li > div > div > img {
     height: 16px;
     width: 16px;
 }
 
-/*グループアイコンの枠*/
+/* グループアイコンの枠 */
 roomlist > ul > li > div > div:first-of-type {
     height: 16px;
     width: 16px;
 }
 
-/*グループとグループの幅*/
+/* グループとグループの幅 */
 roomlist > ul > li {
     padding: 0 10px 0 5px;
 }
 
-/*未読グループの文字色*/
-.ijcItZ {
-    color: red;
-}
-
-/*選択中のグループ*/
-.fhsKMz {
-    /*background: #429add;*/
-    padding: 0 10px 0 5px;
-}
-
-/*ピン留めの位置*/
+/* ピン留めの位置 */
 roomlist > ul > li > div:last-of-type {
     top: 0;
+}
+
+/* 以下、cssクラス名が頻繁に変わる可能性有り */
+
+/* 未読グループの文字色 */
+.ijcItZ {
+    /*color: red;*/
+}
+
+/* 選択中のグループの背景色 */
+.fhsKMz {
+    /*background: #429add;*/
 }
