@@ -29,6 +29,6 @@ roomlist > ul > li {
 }
 
 /*ピン留めの位置*/
-.roomListItem__pinContainer {
+roomlist > ul > li > div:last-of-type {
     top: 0;
 }
