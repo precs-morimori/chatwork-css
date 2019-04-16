@@ -1,4 +1,4 @@
-/* update_date: 2019/04/10 19:10 */
+/* update_date: 2019/04/17 06:08 */
 
 /* グループアイコン */
 roomlist > ul > li > div > div > img {
@@ -25,11 +25,11 @@ roomlist > ul > li > div:last-of-type {
 /* 以下、cssクラス名が頻繁に変わる可能性有り。コメントアウトしている　color、background はお好みで変更。 */
 
 /* 未読グループの文字色 */
-.ijcItZ {
+.jbWxvp {
     /*color: red;*/
 }
 
 /* 選択中のグループの背景色 */
-.fhsKMz {
+.jsbrXL {
     /*background: #429add;*/
 }
