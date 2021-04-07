@@ -1,38 +1,22 @@
 /*----------------------------
-update_date: 2019/04/18 12:55
+update_date: 2021/04/06 20:00
 ----------------------------*/
 
 /*グループアイコン*/
-roomlist > ul > li > div > div > img {
+#RoomList > ul > li > div > div > img {
     height: 16px;
     width: 16px;
 }
-
 /*グループアイコンの枠*/
-roomlist > ul > li > div > div:first-of-type {
+#RoomList > ul > li > div > div:first-of-type {
     height: 16px;
     width: 16px;
 }
-
 /*グループとグループの幅*/
-roomlist > ul > li {
+#RoomList > ul > li {
     padding: 0 10px 0 5px;
 }
-
 /*ピン留めの位置*/
-roomlist > ul > li > div:last-of-type {
+#RoomList > ul > li > div:last-of-type {
     top: 0;
-}
-
-/*---------------------------
-以下、cssクラス名が頻繁に変わる
----------------------------*/
-/*未読グループの文字色*/
-.jbWxvp {
-    /*color: red;*/
-}
-
-/*選択中のグループの背景色*/
-.jsbrXL {
-    /*background: #429add;*/
 }
